@@ -1,3 +1,0 @@
-# PythonCursos
-
-Inicio
